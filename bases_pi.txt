@@ -1,0 +1,12 @@
+Para a realização do PI - DSM6 - 2024/1 - Fatec Franca
+Machine Learning
+IdeiA - Análise de Crédito
+Alunos: Marcelo Luiz Siqueira Reis
+        João Paulo Cardoso Rodrigues
+        Elivelto Silva
+
+Foram utilizadas as bases: application_record.csv, e, credit_record.csv
+
+Disponibilizadas no portal https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data
+
+ 
